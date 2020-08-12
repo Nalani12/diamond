@@ -1,8 +1,26 @@
 .header{
-    padding: 30px;
+    padding: 1000px;
     text-align:center;
    background-image: url('coding picture.jpg');
-    Background-repeat:no-repeat;
    color:cyan;
+   Background-repeat:no-repeat;
+
 }
+
+.topnov{
+    background-color: blanchedalmond;
+    overflow:hidden;
+    color:green;
+}
+
+
+.topnov:hover{
+    background-color:cyan;
+    color:cornflowerblue;
+}
+
+
+
+
+
 
