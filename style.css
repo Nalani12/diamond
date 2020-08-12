@@ -1,13 +1,8 @@
-* {
-    box-sizing: border-box;
-}
-
 .header{
     padding: 1000px;
     text-align:center;
    background-image: url('coding picture.jpg');
    color:cyan;
-   Background-repeat:no-repeat;
 
 }
 
