@@ -1,27 +1,27 @@
 .header{
-    padding: 1000px;
+    padding: 60px;
     text-align:center;
-   background-image: url('coding picture.jpg');
+   background-image: url(coding-picture.jpg);
    color:cyan;
 
 }
 
-.topnov{
+.topnav{
     background-color: blanchedalmond;
     overflow:hidden;
     color:green;
 }
 
 
-.topnov:hover{
+.topnav:hover{
     background-color:cyan;
-    color:cornflowerblue;
+    color:blue;
 }
 
 .topnav a{
     float: left;
     display:block;
-    color:powderblue;
+    color:blue;
     text-align:center;
     padding: 14px 16px;
     text-decoration:none;
@@ -34,13 +34,13 @@
 }
 
 footer{
-    margin-bottom:0;
-    bottom: 0;
-    padding:10px;
-    font-size: 5px;
-    text-align:center;
-    background-color:black;
-    color:whitesmoke;
+    margin-bottom:0px;
+    margin-top:550px;
+        bottom:0;
+        padding: 10px;
+        background-color: royalblue;
+        font-size:small;
+        text-align:center;
 }
 
 .img-style{
@@ -60,4 +60,3 @@ footer{
 }   
 
     
-
