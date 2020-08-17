@@ -59,4 +59,15 @@ footer{
     font-weight:300; 
 }   
 
+.leftcolumn {
+    float:left;
+    width:75%;
+}
     
+.card{
+    background-color: beige;
+    width: 100%;
+    padding: 20px;
+    text-align:center;
+}
+
