@@ -31,6 +31,8 @@
             <img class="img-style" src="img1.jpg" style="width:40%;">
              <p> This is my centered image</p>
         </div>
+        <input type="text" value="">
+        <input type="Submit" value="Submit" onclick="AlertMe();">
 
         </div>
 
@@ -90,6 +92,12 @@ function scrollFunction() {
     }
 }
 
+function AlertMe(){
+        var name = document.getElementById("name").value;
+        alert(name +",Hello there!");
+        document.getElementById("name").value="";
+        location.href="http://www.google.com";
+    }
 
 </script>
 
